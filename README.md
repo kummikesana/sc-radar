@@ -72,6 +72,6 @@ sc-radar/
 
 ## Built by
 
-[Your Name] — MiM student at HEC Paris, IIT Kharagpur alumnus  
+Kumidini Kesana — MiM student at HEC Paris, IIT Kharagpur alumnus  
 Research Assistant (AI/Data) | Supply Chain & Strategy  
-[Your LinkedIn URL]
+linkedin.com/in/kumidini-kesana/
